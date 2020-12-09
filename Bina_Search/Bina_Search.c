@@ -1,4 +1,5 @@
 /*
+好兄弟，这是二分搜索的C语言表示，为什么要用英文注释，因为我想在敲代码的时候顺便学习英语
 note:Binary Search is for an ordered sequence
 */
 #include <stdio.h> 
